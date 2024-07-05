@@ -1,0 +1,7 @@
+#Fri Jul 05 11:55:11 CEST 2024
+base.1=/home/citrom/Qt/Examples/Qt-5.15.2/network/http/build/peek-Android/android-build/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
+path.1=classes.dex
+base.0=/home/citrom/Qt/Examples/Qt-5.15.2/network/http/build/peek-Android/android-build/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
